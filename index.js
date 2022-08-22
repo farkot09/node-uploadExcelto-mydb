@@ -48,7 +48,7 @@ const agregarIdChasis = () => {
       return;
     }
     console.log("ACTUALIZANDO ID CHASIS...");
-    console.log("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+    console.log("xxxxxxxxxxxxxxcambiando el console log de actualizar chasisxxxxxxxxxxxxxxxxxxxxxxxxx");
     for (let i = 0; i < results.length; i++) {
       const sql = "UPDATE programacion SET id_chasis = ? WHERE chasis = ?";
       const values = [results[i].id, results[i].chasis];
