@@ -72,7 +72,7 @@ const eliminarDespachados = () => {
       return;
     }
     console.log("ELIMINANDO DESPACHADOS...");
-    console.log("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
+    console.log("zzzzzzzzzzz-espacio de eliminar despachos");
   });
 };
 
