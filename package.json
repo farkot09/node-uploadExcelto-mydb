@@ -1,0 +1,19 @@
+{
+  "name": "subirexcelamysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.11.2",
+    "mysql": "^2.18.1",
+    "mysqljs": "^0.0.2-security",
+    "read-excel-file": "^5.4.5",
+    "xlsx": "^0.18.5"
+  }
+}
